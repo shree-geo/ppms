@@ -1,0 +1,80 @@
+.backgroundLogin{
+    background-image:url(../uploads/images/backgroundLogin.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    position:fixed;
+    width:100%;
+    top:0;
+    left:0;
+}
+
+.loginSystem{
+    font-size: 15px;  color: #0b58a2;
+}
+
+.loginTitle b{
+    font-size: 18px; text-align: center; color: #9f191f
+}
+
+.boxTopButton {
+    margin-right: 5px;
+}
+
+.cardTopButton{
+    margin-right: 5px;
+}
+
+.table-responsive{
+
+    display: table !important;
+    width: 100% !important;
+}
+
+.color-grey{
+    color: #4da6ff !important;
+    font-weight: bold !important;
+}
+.color-red{
+    color: tomato !important;
+    font-weight: bold !important;
+}
+
+.color-green{
+    color:#028500!important;
+    font-weight: bold !important;
+}
+
+.color-peru{
+    color: peru !important;
+    font-weight: bold !important;
+}
+.textarea1
+{
+	    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 60px !important;
+}
+.textarea2
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    height: 161px  !important;
+}
+.title-size{
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+
+/* Ensure that the demo table scrolls */
+th, td { white-space: nowrap; }
+div.dataTables_wrapper {
+    margin: 0 auto;
+}
+
+.obaTable{
+    width: 160px;
+}
+
